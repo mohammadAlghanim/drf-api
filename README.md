@@ -1,14 +1,9 @@
-# drf-api-permissions-postgres
 #  project name:
-## drf-api-permissions-postgres
+## Django REST Framework & Docker
 
 # to run the project :
 ```
 python manage.py runserver
-```
-# run docker 
-```
-docker compose up --build
 ```
 # for the test:
 ```
